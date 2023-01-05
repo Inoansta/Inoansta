@@ -7,7 +7,6 @@ I am a web developer, primarily making application with React/Redux/Express/Node
 * :unlock: I always find solution to be helpful as a member!
 * :sunglasses: I never hesitate to learn new knowledge.
 * :mag: Not only interested in Frontend, but also Fullstack.
-<br/>
 
 #### :wrench: Lanauges and Tools
 <p>
@@ -24,14 +23,12 @@ I am a web developer, primarily making application with React/Redux/Express/Node
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="max-width: 100%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="max-width: 100%"/>
 </p>
-<br/>
 
 #### :chart_with_upwards_trend: Github Stats
-<div display=flex>
-<img width=49% src="https://github-readme-stats.vercel.app/api?username=Inoansta&show_icons=true&theme=algolia"/>
-<img width=49%  src="http://github-readme-streak-stats.herokuapp.com?user=Inoansta&theme=algolia&background=000000)](https://git.io/streak-stats"/>
+<div align="center">
+<img width=40% src="https://github-readme-stats.vercel.app/api?username=Inoansta&show_icons=true&theme=algolia"/>
+<img width=40%  src="http://github-readme-streak-stats.herokuapp.com?user=Inoansta&theme=algolia&background=000000)](https://git.io/streak-stats"/>
 </div>
-
 
 <!--
 **Inoansta/Inoansta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
