@@ -1,6 +1,15 @@
-### Hi there 👋
+<h1 align="center">👋 Happy Coding! 👋</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inoansta&show_icons=true&theme=blue-green)
+### :question: I am..
+
+I am a web developer, primarily making application with React/Redux/Express/Node.js/MongoDB. One of my representative projects would be making a website for SoliU.
+
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inoansta&show_icons=true&theme=algolia)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Inoansta&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **Inoansta/Inoansta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
