@@ -2,15 +2,16 @@
 
 #### :question: I am..
 
-I am a web developer, primarily making application with React/Redux/Express/Node.js/MongoDB.
+I am a passionate web developer, primarily making application with React/Redux/Express/Node.js/MongoDB.
 * :gift_heart: I love coding with Javascript. I do not mind with Typescript for Redux too!
+* :mag: Not only interested in Frontend, but also Fullstack.
 * :unlock: I always find solution to be helpful as a member!
 * :sunglasses: I never hesitate to learn new knowledge.
-* :mag: Not only interested in Frontend, but also Fullstack.
 
 #### :wrench: Lanauges and Tools
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inoansta&layout=compact&theme=cobalt&hide_border=true&background=000000" />
+<img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inoansta&layout=compact&theme=cobalt&hide_border=true&background=000000" />
+<img margin="auto" width=25% src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
  </p>
 <p dir="auto">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="max-width: 100%"/>
@@ -21,13 +22,14 @@ I am a web developer, primarily making application with React/Redux/Express/Node
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" style="max-width: 100%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="max-width: 100%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="max-width: 100%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" style="max-width: 100%/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="max-width: 100%"/>
 </p>
 
 #### :chart_with_upwards_trend: Github Stats
 <div align="center">
-<img width=40% src="https://github-readme-stats.vercel.app/api?username=Inoansta&show_icons=true&theme=algolia"/>
-<img width=40%  src="http://github-readme-streak-stats.herokuapp.com?user=Inoansta&theme=algolia&background=000000)](https://git.io/streak-stats"/>
+<img width=48% src="https://github-readme-stats.vercel.app/api?username=Inoansta&show_icons=true&theme=algolia"/>
+<img width=48%  src="http://github-readme-streak-stats.herokuapp.com?user=Inoansta&theme=algolia&background=000000)](https://git.io/streak-stats"/>
 </div>
 
 <!--
