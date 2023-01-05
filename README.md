@@ -8,6 +8,7 @@ I am a web developer, primarily making application with React/Redux/Express/Node
 * :sunglasses: I never hesitate to learn new knowledge.
 * :mag: Not only interested in Frontend, but also Fullstack.
 <br/>
+
 #### :wrench: Lanauges and Tools
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inoansta&layout=compact&theme=cobalt&hide_border=true&background=000000" />
@@ -24,6 +25,7 @@ I am a web developer, primarily making application with React/Redux/Express/Node
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="max-width: 100%"/>
 </p>
 <br/>
+
 #### :chart_with_upwards_trend: Github Stats
 <div display=flex>
 <img width=49% src="https://github-readme-stats.vercel.app/api?username=Inoansta&show_icons=true&theme=algolia"/>
