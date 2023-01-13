@@ -8,7 +8,7 @@ I am a passionate web developer, primarily making applications with React/Redux/
 * :unlock: I always find solutions for any questions/tasks so that I can be a productive member to any team I get to work alongside!
 * :sunglasses: I am always striving to learn new knowledge and skills to help develop into a more experienced and valuable member in any team/project.
 
-#### :wrench: Lanauges and Tools
+#### :wrench: Languages and Tools
 <p>
 <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inoansta&layout=compact&theme=cobalt&hide_border=true&background=000000" />
 <img margin="auto" width=25% src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
