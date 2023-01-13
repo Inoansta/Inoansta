@@ -2,11 +2,11 @@
 
 #### :question: I am..
 
-I am a passionate web developer, primarily making application with React/Redux/Express/Node.js/MongoDB.
-* :gift_heart: I love coding with Javascript. I do not mind with Typescript for Redux too!
-* :mag: Not only interested in Frontend, but also Fullstack.
-* :unlock: I always find solution to be helpful as a member!
-* :sunglasses: I never hesitate to learn new knowledge.
+I am a passionate web developer, primarily making applications with React/Redux/Express/Node.js/MongoDB.
+* :gift_heart: I love coding with Javascript. I also enjoy using Typescript for Redux too!
+* :mag: I'm not only interested in Frontend positions, but also Fullstack positions.
+* :unlock: I always find solutions for any questions/tasks so that I can be a productive member to any team I get to work alongside!
+* :sunglasses: I am always striving to learn new knowledge and skills to help develop into a more experienced and valuable member in any team/project.
 
 #### :wrench: Lanauges and Tools
 <p>
