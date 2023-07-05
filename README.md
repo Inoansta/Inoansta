@@ -26,12 +26,6 @@ I am a passionate web developer, primarily making applications with React/Redux/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="max-width: 100%"/>
 </p>
 
-#### :chart_with_upwards_trend: Github Stats
-<div align="center">
-<img width=48% src="https://github-readme-stats.vercel.app/api?username=Inoansta&show_icons=true&theme=algolia"/>
-<img width=48%  src="http://github-readme-streak-stats.herokuapp.com?user=Inoansta&theme=algolia&background=000000)](https://git.io/streak-stats"/>
-</div>
-
 <!--
 **Inoansta/Inoansta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
